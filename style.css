@@ -75,28 +75,7 @@ h1 {
     color: #757575;
 }
 
-.about {
-    margin-left: 250px;
-    color: black;
-    padding-top: 1rem;
-    padding-left: 5rem;
-    min-height: 100vh;
-}
-.achv {
-    margin-left: 250px;
-    color: black;
-    padding-top: 1rem;
-    padding-left: 5rem;
-    min-height: 100vh;
-}
-.projects {
-    margin-left: 250px;
-    color: black;
-    padding-top: 1rem;
-    padding-left: 5rem;
-    min-height: 100vh;
-}
-.contact {
+.all-pages {
     margin-left: 250px;
     color: black;
     padding-top: 1rem;

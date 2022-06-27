@@ -164,6 +164,11 @@ h1 {
     color: black;
 }
 
+.about-final-text {
+    /* padding-top: 1rem;
+    margin-left: 1rem; */
+}
+
 /* skill section */
 .skills {
     background-color: rgb(201, 209, 245);
@@ -175,6 +180,15 @@ h1 {
     margin-left: 15rem;
     padding-top: 2rem;
     margin-right: 15rem;
+}
+
+.skill-text h3 {
+    font-size: 1.8rem;
+}
+
+.skill-text p {
+    font-size: 1.1rem;
+    padding-top: 1.8rem;
 }
 
 .skill-section {
@@ -193,7 +207,7 @@ h1 {
   position: relative;
   width: 40%;
   min-width: 300px;
-  margin-top: 5rem;
+  margin-top: 3rem;
   margin-left: 15rem;
   list-style: none;
 }

@@ -3,17 +3,16 @@
 * {
   margin: 0;
   padding: 0;
-  -webkit-box-sizing: border-box;
 }
 
 *, ::after, ::before {
     box-sizing: border-box;
+    -webkit-box-sizing: border-box;
 }
 
 body {
   /* background: #1a1a1a; */
   font-family: "PT Sans", sans-serif;
-
 }
 
 .sidebar{
